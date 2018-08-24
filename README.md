@@ -22,7 +22,7 @@ chmod 500 ./install-kcp-server.sh
 ./install-kcp-server.sh install
 ```
 ```Bash
-wget --no-check-certificate https://github.com/xlf1234/kcp-server/blob/master/install-kcp-server.sh -O ./install-kcp-server.sh
+wget --no-check-certificate https://github.com/xlf1234/kcp-server/raw/master/install-kcp-server.sh -O ./install-kcp-server.sh
 chmod 500 ./install-kcp-server.sh
 ./install-kcp-server.sh install
 ```
